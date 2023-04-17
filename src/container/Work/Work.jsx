@@ -11,7 +11,7 @@ const works = [
   {
     title: "Bookozee.com",
     description:
-      "A hotel booking web app that allows users to easily search, book, cancel, and manage their hotel reservations. This app is sure to be a valuable resource for travelers who are looking for a hassle-free way to plan their trips and book accommodations. With Bookozee, users can browse through a wide selection of nearby hotels and find the one that best fits their needs and budget. They can easily compare different hotels based on features such as price, location, amenities, and user reviews. Once they have found the hotel they want to book, they can reserve their room with just a few clicks.",
+      "It's my major project where I used the MERN stack to build a hotel reservation web app, including backend integration and an admin panel. The app features functionalities such as nearby hotel search, hotel search by date, and booking specific rooms in a hotel, among others.",
     techStack:
       "Html, Css, Sass, Material UI, React JS, Node JS, Express JS, MongoDB",
     tags: ["MERN", "All"],
@@ -22,7 +22,7 @@ const works = [
   {
     title: "Bookozee Admin Panel",
     description:
-      " Bookozee.com hotel booking app admin panel built using React and Material-UI (Mui) technology. The admin panel offers seamless management and creation of user data, hotel details, and room details, empowering administrators with comprehensive control and oversight over all aspects of the hotel booking process. The React Mui admin panel of Bookozee.com is designed with a modern user interface, providing an exceptional user experience. Administrators can easily access and review all user data, including hotel details, and room details with the ability to sort, filter, and search for data efficiently.",
+      "This project is focused on building an admin panel for Bookozee.com, a hotel reservation web app, using the MERN stack. The admin panel includes functionalities such as viewing all users, creating users, viewing all hotel details, creating hotels, deleting hotels, and managing room details.",
     techStack:
       "Html, Css, Sass, Material UI, React JS, Node JS, Express JS, MongoDB",
     tags: ["MERN", "All"],
@@ -44,7 +44,7 @@ const works = [
   {
     title: "Kratstechnologies.com",
     description:
-      "KratsTechnologies is a dynamic company website based in Bhopal, India, that offers a wide range of services to clients, including digital marketing support, IT solutions, app development, and web development.  The website is designed to be fully responsive, ensuring a seamless user experience across different devices such as desktops, laptops, tablets, and smartphones. This reflects Krats Technologies' commitment to delivering websites that are accessible and functional on any screen size or device.",
+      "I built this project for Kratstechnologies.com, an IT company based in Bhopal, using React.js and Chakra UI. The project is a company website designed for their client and is fully responsive, catering to all devices. The website showcases the company's services, portfolio, and other relevant information, and has been designed to adapt seamlessly to different screen sizes and devices.",
     techStack: "Html, Css, Chakra UI, React JS ",
     tags: ["React", "All"],
     imgUrl: images.krats,
@@ -157,7 +157,10 @@ const Work = () => {
               <p className="p-text" style={{ marginTop: 10 }}>
                 {work.description}
               </p>
-              <p className="p-text" style={{ marginTop: 13, width: "100%" }}>
+              <p
+                className="p-text"
+                style={{ marginTop: 13, width: "100%", fontWeight: "500" }}
+              >
                 <span
                   style={{
                     color: "#313BAC",
