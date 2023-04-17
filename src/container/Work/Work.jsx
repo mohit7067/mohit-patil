@@ -13,7 +13,7 @@ const works = [
     description:
       "It's my major project where I used the MERN stack to build a hotel reservation web app, including backend integration and an admin panel. The app features functionalities such as nearby hotel search, hotel search by date, and booking specific rooms in a hotel, among others.",
     techStack:
-      "Html, Css, Sass, Material UI, React JS, Node JS, Express JS, MongoDB",
+      "Html, Css, Scss, Material UI, React JS, Node JS, Express JS, MongoDB, Mongoose, Git",
     tags: ["MERN", "All"],
     imgUrl: images.Bookozee,
     projectLink: "https://bookozee.netlify.app",
@@ -24,7 +24,7 @@ const works = [
     description:
       "This project is focused on building an admin panel for Bookozee.com, a hotel reservation web app, using the MERN stack. The admin panel includes functionalities such as viewing all users, creating users, viewing all hotel details, creating hotels, deleting hotels, and managing room details.",
     techStack:
-      "Html, Css, Sass, Material UI, React JS, Node JS, Express JS, MongoDB",
+      "Html, Css, Scss, Material UI, React JS, Node JS, Express JS, MongoDB, Mongoose, Firebase-storage, Git",
     tags: ["MERN", "All"],
     imgUrl: images.bookozeeAdmin,
     projectLink: "https://bookozee-admin.netlify.app/",
