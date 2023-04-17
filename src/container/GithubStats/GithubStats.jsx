@@ -21,6 +21,7 @@ const GithubStats = () => {
           username="mohit7067"
           fontSize={matches ? 35 : 12}
           blockSize={matches ? 30 : 12}
+          colorScheme={"dark"}
           style={{ fontWeight: "bold" }}
         />
       </Box>
