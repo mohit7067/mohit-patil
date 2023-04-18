@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mohit-patil/static/css/main.63018263.css",
-    "main.js": "/mohit-patil/static/js/main.8283c80c.js",
+    "main.js": "/mohit-patil/static/js/main.468e25ba.js",
     "static/media/profile.png": "/mohit-patil/static/media/profile.9f7d034e76e04c4973d8.png",
     "static/media/aboutanimated.gif": "/mohit-patil/static/media/aboutanimated.964793e1d0d0b2061df5.gif",
     "static/media/about04.png": "/mohit-patil/static/media/about04.fa7b3a72ed32b0e25bfb.png",
@@ -48,10 +48,10 @@
     "index.html": "/mohit-patil/index.html",
     "static/media/circle.svg": "/mohit-patil/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
     "main.63018263.css.map": "/mohit-patil/static/css/main.63018263.css.map",
-    "main.8283c80c.js.map": "/mohit-patil/static/js/main.8283c80c.js.map"
+    "main.468e25ba.js.map": "/mohit-patil/static/js/main.468e25ba.js.map"
   },
   "entrypoints": [
     "static/css/main.63018263.css",
-    "static/js/main.8283c80c.js"
+    "static/js/main.468e25ba.js"
   ]
 }
