@@ -22,7 +22,7 @@ const works = [
   {
     title: "Bookozee Admin Panel",
     description:
-      "This project is focused on building an admin panel for Bookozee.com, a hotel reservation web app, using the MERN stack. The admin panel includes functionalities such as viewing all users, creating users, viewing all hotel details, creating hotels, deleting hotels, and managing room details.",
+      "This project is focused on building an admin panel for Bookozee.com, a hotel reservation web app, using the MERN stack. The admin panel includes functionalities such as viewing all users, creating users, viewing all hotel details, creating hotels, deleting hotels, and managing room details.  Credentials to login (email: badmin70@gmail.com, password: badmin7067).",
     techStack:
       "Html, Css, Scss, Material UI, React JS, Node JS, Express JS, MongoDB, Mongoose, Firebase-storage, Git",
     tags: ["MERN", "All"],
