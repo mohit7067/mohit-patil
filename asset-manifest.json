@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mohit-patil/static/css/main.63018263.css",
-    "main.js": "/mohit-patil/static/js/main.468e25ba.js",
+    "main.js": "/mohit-patil/static/js/main.2699dd78.js",
     "static/media/profile.png": "/mohit-patil/static/media/profile.9f7d034e76e04c4973d8.png",
     "static/media/aboutanimated.gif": "/mohit-patil/static/media/aboutanimated.964793e1d0d0b2061df5.gif",
     "static/media/about04.png": "/mohit-patil/static/media/about04.fa7b3a72ed32b0e25bfb.png",
@@ -9,6 +9,7 @@
     "static/media/about01.png": "/mohit-patil/static/media/about01.080509de05322b7aafda.png",
     "static/media/bgIMG.png": "/mohit-patil/static/media/bgIMG.c39101e520e2997fc6d4.png",
     "static/media/bgWhite.png": "/mohit-patil/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/Fitness exercise suggetion app.png": "/mohit-patil/static/media/Fitness exercise suggetion app.2f57d4f29c0d5a837710.png",
     "static/media/youtubeclone.png": "/mohit-patil/static/media/youtubeclone.d05054d49fd48f23929b.png",
     "static/media/Bookozee.png": "/mohit-patil/static/media/Bookozee.3b0b1c43f08bd8b9a965.png",
     "static/media/about03.png": "/mohit-patil/static/media/about03.c26c2547bb1a423cf283.png",
@@ -48,10 +49,10 @@
     "index.html": "/mohit-patil/index.html",
     "static/media/circle.svg": "/mohit-patil/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
     "main.63018263.css.map": "/mohit-patil/static/css/main.63018263.css.map",
-    "main.468e25ba.js.map": "/mohit-patil/static/js/main.468e25ba.js.map"
+    "main.2699dd78.js.map": "/mohit-patil/static/js/main.2699dd78.js.map"
   },
   "entrypoints": [
     "static/css/main.63018263.css",
-    "static/js/main.468e25ba.js"
+    "static/js/main.2699dd78.js"
   ]
 }
