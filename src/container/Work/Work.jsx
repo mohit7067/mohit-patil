@@ -30,6 +30,16 @@ const works = [
     projectLink: "https://bookozee-admin.netlify.app/",
     codeLink: "https://github.com/mohit7067/bookozee",
   },
+  {
+    title: "Fitness Exercises Suggestion App",
+    description:
+      "The objective of this project is to build a fitness exercise suggestion app using React JS, Material UI, and Rapid UI. The app will allow users to search for exercises related to specific body parts. Upon searching, the user will receive information and a relevant GIF for the selected exercise, along with pagination for easy navigation.",
+    techStack: "Html, Css, Material UI, React JS, RapidAPI",
+    tags: ["React", "All"],
+    imgUrl: images.fitnessproject,
+    projectLink: "https://fitness-exercise-suggestion.vercel.app",
+    codeLink: "https://github.com/mohit7067/fitness_exercise",
+  },
 
   {
     title: "Youtube Clone",

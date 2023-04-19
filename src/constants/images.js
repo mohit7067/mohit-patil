@@ -52,6 +52,7 @@ import ayushi from "../assets/ayushi.jpg";
 import youtubeclone from "../assets/youtubeclone.png";
 import krats from "../assets/krats.png";
 import bookozeeAdmin from "../assets/bookozeeAdmin.png";
+import fitnessproject from "../assets/Fitness exercise suggetion app.png";
 export default {
   raju,
   rajujai,
@@ -104,4 +105,5 @@ export default {
   youtubeclone,
   krats,
   bookozeeAdmin,
+  fitnessproject,
 };
